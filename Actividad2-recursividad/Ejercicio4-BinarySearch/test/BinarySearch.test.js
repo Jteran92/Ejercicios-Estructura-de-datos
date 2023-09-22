@@ -1,4 +1,4 @@
-import { factorial } from '../Factorial'
+import { factorial } from '../BinarySearch'
 
 describe('Suite de pruebas de la funcion Factorial() usando recursividad', () => {
 
